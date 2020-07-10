@@ -1,3 +1,3 @@
 # BookHub
-BALASHEKHAR/BookHub
+BookHub
 
